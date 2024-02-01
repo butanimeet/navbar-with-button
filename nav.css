@@ -1,0 +1,86 @@
+.a {
+    float: inline-end;
+    text-align: center;
+    
+}
+.header {
+    overflow: hidden;
+  background-color:red;
+  padding: 15px 10px;
+}
+
+.box1 a {
+
+    
+
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 25px;
+    border-radius: 4px
+}
+
+.box2  {
+
+    /* background-color: red; */
+    text-align: end;
+    display: flex;
+    float: inline-end;
+    
+    
+    
+}
+.box2 a {
+    font-size: 1.5rem;
+    color: black;
+    text-decoration: none;
+    /* float: right; */
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+
+
+
+
+}
+
+.number {
+    text-align: end;
+    margin-left: 57rem;
+}
+
+.search input {
+    background-color: white;
+
+    font-size: 1.5rem;
+    color: black;
+    
+    /* float: right; */
+    color: black;
+
+    padding: 12px;
+    
+    font-size: 20px;
+    line-height: 25px;
+}
+.head1 {
+    display: flex;
+}
+
+.head1 select {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 4px;
+    margin: 5px;
+}
