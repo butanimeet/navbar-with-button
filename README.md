@@ -1,3 +1,3 @@
 # navbar
  html css
-![Uploading nav.jpg.jpeg…]()
+C:\Users\Meet\Desktop\nav.jpg
